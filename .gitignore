@@ -1,0 +1,22 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Environments / editors
+.vscode/
+.ipynb_checkpoints/
+
+# Large research data and generated arrays
+*.h5ad
+*.h5
+*.npy
+*.npz
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
